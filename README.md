@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samuel Berrio</h1>
-<p aling="center" width="50"> <img src="https://fmbahiaengano.com/wp-content/uploads/2022/04/programador-1-1024x542.jpg" alt="samuelberrio" /> </p>
 <h3 align="center">¡Hola! Soy Samuel Berrio, un estudiante apasionado de Ingeniería de Software con un enfoque en el desarrollo de aplicaciones web. Tengo experiencia en tecnologías como JavaScript, Spring Boot, Java, HTML y CSS.
 
 Me apasiona el proceso de creación y diseño de soluciones innovadoras. Mi objetivo es convertirme en un desarrollador versátil y altamente competente, capaz de enfrentar desafíos emocionantes y ofrecer soluciones eficientes.
@@ -7,6 +6,8 @@ Me apasiona el proceso de creación y diseño de soluciones innovadoras. Mi obje
 En mi cuenta de GitHub, encontrarás proyectos y ejemplos que reflejan mi dedicación y habilidades técnicas. Mi enfoque se basa en la escritura de código limpio y mantenible, y estoy constantemente actualizando y mejorando mis habilidades para mantenerme al día con las últimas tendencias y tecnologías.
 
 Actualmente, estoy buscando oportunidades para poner en práctica mis conocimientos y habilidades en un entorno de trabajo real. Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme. Estoy emocionado por aprender de otros profesionales del campo y crecer como desarrollador.
+  
+  <p aling="center" width="50"> <img src="https://fmbahiaengano.com/wp-content/uploads/2022/04/programador-1-1024x542.jpg" alt="samuelberrio" /> </p>
 
 Gracias por visitar mi perfil de GitHub. ¡Espero poder conectarme con otros entusiastas de la tecnología y explorar nuevas oportunidades juntos!</h3>
 
