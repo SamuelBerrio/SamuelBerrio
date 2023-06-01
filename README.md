@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samuel Berrio</h1>
-<h3 align="center">Estudiante de Ingenieria de Software, creativo y con ganas de nuevas experiencias y retos</h3>
+<h3 align="center">¡Hola! Soy [Tu nombre], un estudiante apasionado de Ingeniería de Software con un enfoque en el desarrollo de aplicaciones web. Tengo experiencia en tecnologías como JavaScript, Spring Boot, Java, HTML y CSS.
+
+Me apasiona el proceso de creación y diseño de soluciones innovadoras. Mi objetivo es convertirme en un desarrollador versátil y altamente competente, capaz de enfrentar desafíos emocionantes y ofrecer soluciones eficientes.
+
+En mi cuenta de GitHub, encontrarás proyectos y ejemplos que reflejan mi dedicación y habilidades técnicas. Mi enfoque se basa en la escritura de código limpio y mantenible, y estoy constantemente actualizando y mejorando mis habilidades para mantenerme al día con las últimas tendencias y tecnologías.
+
+Actualmente, estoy buscando oportunidades para poner en práctica mis conocimientos y habilidades en un entorno de trabajo real. Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme. Estoy emocionado por aprender de otros profesionales del campo y crecer como desarrollador.
+
+Gracias por visitar mi perfil de GitHub. ¡Espero poder conectarme con otros entusiastas de la tecnología y explorar nuevas oportunidades juntos!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelberrio&label=Profile%20views&color=0e75b6&style=flat" alt="samuelberrio" /> </p>
 
