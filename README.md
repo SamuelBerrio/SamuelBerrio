@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Berrio</h1>
-<h3 align="center">¡Hola! Soy [Tu nombre], un estudiante apasionado de Ingeniería de Software con un enfoque en el desarrollo de aplicaciones web. Tengo experiencia en tecnologías como JavaScript, Spring Boot, Java, HTML y CSS.
+<h3 align="center">¡Hola! Soy Samuel Berrio, un estudiante apasionado de Ingeniería de Software con un enfoque en el desarrollo de aplicaciones web. Tengo experiencia en tecnologías como JavaScript, Spring Boot, Java, HTML y CSS.
 
 Me apasiona el proceso de creación y diseño de soluciones innovadoras. Mi objetivo es convertirme en un desarrollador versátil y altamente competente, capaz de enfrentar desafíos emocionantes y ofrecer soluciones eficientes.
 
